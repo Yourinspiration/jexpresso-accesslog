@@ -8,7 +8,7 @@ Latest stable release:
 <dependency>
   <groupId>de.yourinspiration</groupId>
   <artifactId>jexpresso-accesslog</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 </dependency>
 ```
 
